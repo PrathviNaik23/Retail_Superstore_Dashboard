@@ -6,6 +6,16 @@ An interactive Retail Sales Analytics Dashboard built using Microsoft Power BI t
 
 The Retail Superstore Dashboard transforms retail sales data into meaningful visual insights. It helps users understand business performance, identify profitable product categories, and explore sales trends to support data-driven decision-making.
 
+📸 Dashboard Previews
+
+Dashboard 1 — Sales Overview
+
+![Sales Overview](dashboard1.png)
+
+Dashboard 2 — Sales Analysis
+
+![Sales Analysis](dashboard2.png)
+
 🎯 Project Objectives
 
 - Analyze overall sales and profit performance.
